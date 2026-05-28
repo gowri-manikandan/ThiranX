@@ -143,6 +143,4 @@ public class EmployeeListView {
         return value.substring(0, max - 1) + "~";
     }
 }
-    }
-}
 
